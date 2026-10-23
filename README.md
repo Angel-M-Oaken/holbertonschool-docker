@@ -1,2 +1,2 @@
 # holbertonschool-docker
-: holbertonschool-docker
+holbertonschool-docker
